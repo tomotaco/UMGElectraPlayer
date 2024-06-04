@@ -1,0 +1,3 @@
+This project uses Unreal Marketplace plugin "EasyFileDialog".
+https://www.unrealengine.com/marketplace/ja/product/easy-file-dialog
+Please download and place EasyFileDialog folder here.
